@@ -1,8 +1,3 @@
-#Group 12 
-#Submitted by:- Naman Jain(20UCS122), Naman Jain(20UCS125) , Priyadarshini Sankar(20UCS149), Manav Jangid(20UCS111)
-#Restaurant Database System.
-#Submitted to:- Mr Ram Prakash Sharma.
-#Date 30-11-2021.
 Create database r;
 use r;
 #drop database r;
