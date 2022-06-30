@@ -1,4 +1,4 @@
-package Naman;
+package Manav;
 /*
 Database Table Printer
 Copyright (C) 2014  Hami Galip Torun
